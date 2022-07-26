@@ -1,0 +1,13 @@
+.nav-item a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.nav-item a:hover{
+    color: brown;
+}
+
+
+.logo{
+    width: 200px;
+}

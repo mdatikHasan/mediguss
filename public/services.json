@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "img": "https://tf.quomodosoft.com/mediguss/wp-content/uploads/2020/03/service23.jpg",
+      "name": "Laboratory Test",
+      "priceMin": 99,
+      "priceMax": 500,
+      "describe": "Lab tests and diagnostic procedures are tests used to check if a persons health is normal. For example, a lab can test a sample of your blood, urine or body tissue to see if something is wrong. A diagnostic test, like blood pressure testing, can show if you have low or high blood pressure."
+    },
+    {
+      "id": 2,
+      "img": "https://tf.quomodosoft.com/mediguss/wp-content/uploads/2020/03/service4-1.jpg",
+      "name": "Advanced Care",
+      "priceMin": 369,
+      "priceMax": 3200,
+      "describe": "Advanced SystemCare is a great all-in-one PC utility that can scan, repair, and optimize many aspects of your system.It aims to remedy whatever ails your computer by not only cleaning up junk files, malware, and invalid registry entries, but by giving your computer a boost to optimize your PC experience."
+    },
+    {
+      "id": 3,
+      "img": "https://tf.quomodosoft.com/mediguss/wp-content/uploads/2020/03/service5-1.jpg",
+      "name": "Respite Home",
+      "priceMin": 339,
+      "priceMax": 1600,
+      "describe": "Respite care is a temporary, short-term stay in a care home, designed to support both you as the caregiver and the person youre caring for. If youre a caregiver, respite care lets you take a break or enables you to take time out to get things done. Respite care is designed to give carers a break for a limited period of time. Someone else provides care so the carer can go on holiday, attend to everyday activities or just relax."
+    },
+    {
+      "id": 4,
+      "img": "https://tf.quomodosoft.com/mediguss/wp-content/uploads/2020/03/3.jpg",
+      "name": "Psychotherapy",
+      "priceMin": 570,
+      "priceMax": 2000,
+      "describe": "psychotherapy, also called counseling, any form of treatment for psychological, emotional, or behaviour disorders in which a trained person establishes a relationship with one or several patients for the purpose of modifying or removing existing symptoms and promoting personality growth."
+    },
+    {
+      "id": 5,
+      "img": "https://tf.quomodosoft.com/mediguss/wp-content/uploads/2020/04/2.jpg",
+      "name": "Corona",
+      "priceMin": 199,
+      "priceMax": 450,
+      "describe": "Signs and symptoms include respiratory symptoms and include fever, cough and shortness of breath. In more severe cases, infection can cause pneumonia, severe acute respiratory syndrome and sometimes death Standard recommendations to prevent the spread of COVID-19 include frequent cleaning of hands using alcohol-based hand rub or soap and water; covering the nose and mouth with a flexed elbow or disposable tissue when coughing and sneezing; and avoiding close contact with anyone that has a fever and cough."
+    },
+    {
+      "id": 6,
+      "img": "https://tf.quomodosoft.com/mediguss/wp-content/uploads/2020/04/2.jpg",
+      "name": "Blood Test",
+      "priceMin": 879,
+      "priceMax": 1000,
+      "describe": "The tests can give providers information about your organs, such as the heart, kidneys, and liver. The BMP includes blood glucose, calcium, and electrolyte tests, as well as blood tests that measure kidney function. Some of these tests require you to fast (not eat any food) before the test, and others dont"
+    }
+  ]
