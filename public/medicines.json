@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "barndName": "Alcet",
+    "genericName": "Levocetirizine",
+    "dosageFrom": "Tablet",
+    "strength": "5 mg",
+    "packSixe": "100s",
+    "price": 75
+  },
+  {
+    "id": 2,
+    "barndName": "Alcet",
+    "genericName": "Levocetirizine",
+    "dosageFrom": "Syrup",
+    "strength": "2.5 mg/5ml (60ml)",
+    "packSixe": "1s",
+    "price": 74
+  },
+  {
+    "id": 3,
+    "barndName": "Rosela",
+    "genericName": "Rupatadine",
+    "dosageFrom": "Tablet",
+    "strength": "10 mg ",
+    "packSixe": "30s",
+    "price": 274
+  },
+  {
+    "id": 4,
+    "barndName": "Vifas",
+    "genericName": "Fexofenadine",
+    "dosageFrom": "Tablet",
+    "strength": "60 mg, 120 mg 180 mg",
+    "packSixe": "30s",
+    "price": 738
+  },
+  {
+    "id": 5,
+    "barndName": "Vifas",
+    "genericName": "Fexofenadine",
+    "dosageFrom": "Suspension",
+    "strength": "30 mg/5ml (60ml)",
+    "packSixe": ") 1s",
+    "price": 75
+  },
+  {
+    "id": 6,
+    "barndName": "Andep",
+    "genericName": "Sertraline",
+    "dosageFrom": "Tablet",
+    "strength": "25 mg, 50 mg & 100 mg",
+    "packSixe": "50 s &30 s",
+    "price": 14
+  },
+  {
+    "id": 7,
+    "barndName": "Angenta",
+    "genericName": "Flupentixol + Melitracen",
+    "dosageFrom": "Tablet ",
+    "strength": "0.5 mg + 10 mg",
+    "packSixe": "100s",
+    "price": 36
+  },
+  {
+    "id": 8,
+    "barndName": "Esita ",
+    "genericName": "Escitalopram",
+    "dosageFrom": "Tablet",
+    "strength": "5 mg & 10 mg",
+    "packSixe": "20 s",
+    "price": 48
+  },
+  {
+    "id": 9,
+    "barndName": "Mirez",
+    "genericName": "Mirtazapine",
+    "dosageFrom": "Tablet",
+    "strength": "7.5 mg, 15 mg & 30 mg",
+    "packSixe": "30s",
+    "price": 65
+  },
+  {
+    "id": 10,
+    "barndName": "Arthrofen",
+    "genericName": "Misoprostol + Diclofenac Sodium ",
+    "dosageFrom": "Tablet",
+    "strength": "200 µg+50 mg & 200 µg+ 75 mg",
+    "packSixe": "21s",
+    "price": 41
+  }
+]

@@ -47,3 +47,17 @@
   color: white;
   font-weight: bold;
 }
+
+.about-banner{
+  background-image: url('https://img.freepik.com/premium-photo/close-up-doctor-front-bright-background_53419-4416.jpg?w=2000');
+  height: 60vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: scroll;
+}
+.background-layer{
+  height: 60vh;
+  width: 100%;
+  background-color: rgba(32, 32, 32, 0.63);
+  
+}

@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import useFirebase from '../../hooks/useFirebase';
-import { useNavigate, useLocation } from 'react-router-dom'
+import { useNavigate, useLocation, Link } from 'react-router-dom'
 import useAuth from '../../hooks/useAuth';
+import Register from '../Register/Register';
 
 const Login = () => {
     const [gUser, setGUser] = useState({})
@@ -11,6 +12,11 @@ const Login = () => {
     const location = useLocation();
 
     let from = location.state?.from?.pathname || "/";
+
+    //star sign in 
+
+
+    // end sign in 
 
     const handleGoogleSignIn = () => {
         signInUsingGoogle()
@@ -29,9 +35,11 @@ const Login = () => {
     return (
         <div>
             <h2 className='mb-5'>Please Login</h2>
+            <Register></Register>
             <div>
                 <button onClick={handleGoogleSignIn}>Google Sign In</button>
-            </div>
+            </div><br />
+            
         </div>
     );
 };

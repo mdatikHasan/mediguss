@@ -14,6 +14,7 @@ import HomeServices from './Pages/Home/HomeServices';
 import Footer from './Shared/Footer/Footer';
 import AuthProvider from './context/AuthProvider';
 import PrivateRoute from './Pages/PrivateRoute/PrivateRoute';
+import Register from './Pages/Register/Register';
 
 
 function App() {
@@ -32,6 +33,7 @@ function App() {
             <Route path='/medicine' element={<PrivateRoute><Medicine></Medicine></PrivateRoute>}></Route>
             <Route path='/about' element={<About></About>}></Route>
             <Route path='/Login' element={<Login></Login>}></Route>
+            <Route path='/register' element={<Register></Register>}></Route>
             {/* components here */}
 
             <Route path='/service' element={<Service></Service>}></Route>

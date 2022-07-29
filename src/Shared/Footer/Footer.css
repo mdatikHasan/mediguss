@@ -1,24 +1,25 @@
-.fotter-services:hover{
-   color: red;
-   font-weight: bold;
-   font-size: 1.3rem;
+.fotter-services:hover {
+    color: red;
+    font-weight: bold;
+    font-size: 1.3rem;
 }
-.footer-top{
-    margin-top: -150px;
+
+
+.fotter-recent-post:hover {
+    color: red;
+    
+    
 }
-.fotter-recent-post:hover{
-   color: red;
-   font-weight: bold;
-   font-size: 16px;
-}
-.footer-icon:hover{
+
+.footer-icon:hover {
     color: rgb(247, 117, 117);
 }
 
-.footer{
+.footer {
     background-color: rgb(21, 21, 29);
     color: white;
 }
-.footer-bottom{
+
+.footer-bottom {
     background-color: rgb(28, 28, 36);
 }

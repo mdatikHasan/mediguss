@@ -22,11 +22,11 @@ const NavBar = () => {
                             <NavLink to='/medicine' className='mx-3 linkItem'>Medicine</NavLink>
                             <NavLink to='/about' className='mx-3 linkItem'>About</NavLink>
                             {
-                                user?.displayName ? <NavLink to='/login' onClick={logOut}><span><i class="fa-solid fa-right-from-bracket"></i></span> Log Out</NavLink> : <NavLink to='/login' className='mx-3 linkItem'><span><i class="fa-solid fa-down-to-bracket"></i></span> Login</NavLink>
+                                user?.displayName ? <NavLink to='/login' onClick={logOut}><span><i className="fa-solid fa-right-from-bracket"></i></span> Log Out</NavLink> : <NavLink to='/login' className='mx-3 linkItem'><span><i className="fa-solid fa-down-to-bracket"></i></span> Login</NavLink>
                             }
                             
                             
-                            <span className='ms-5 fs-4 text-danger'><b> {user?.displayName? <i class="fa-solid fa-user-check"></i> : <i></i>}{user.displayName}</b></span>
+                            <span className='ms-5 fs-4 text-danger'><b> {user?.displayName? <i className="fa-solid fa-user-check"></i> : <i></i>}{user.displayName}</b></span>
 
                         </li>
                     </ul>
